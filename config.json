@@ -1,0 +1,10 @@
+{
+  "name": "next-zone-5872",
+  "version": "0.8.49",
+  "settings": {
+    "logLevel": "debug",
+    "maxRetries": 2,
+    "timeout": 10000
+  },
+  "created": "2026-05-05T12:57:31.338Z"
+}
